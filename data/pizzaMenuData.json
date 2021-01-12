@@ -1,0 +1,133 @@
+[
+    {
+        "id":1,
+        "name":"Margherita",
+        "ingredients":"tomato sauce, mozzarella, basil",
+        "price":18
+    },
+    {
+        "id":2,
+        "name":"Vegetariana",
+        "ingredients":"tomato sauce, gorgonzola, capers, zucchini, dried tomatoes, rocket",
+        "price":22
+    },
+    {
+        "id":3,
+        "name":"Salami Napoli",
+        "ingredients":"tomato sauce, mozzarella, salami",
+        "price":22
+    },
+    {
+        "id":4,
+        "name":"Capriciosa",
+        "ingredients":"tomato sauce, mozzarella, cotto ham, mushrooms, olives",
+        "price":23
+    },
+    {
+        "id":5,
+        "name":"Salami piccannte",
+        "ingredients":"tomato sauce, mozzarella, cotto ham, mushrooms, olives",
+        "price":23
+    },
+    {
+        "id":6,
+        "name":"Mario",
+        "ingredients":"tomato sauce, mozzarella, pancetta, Italian sausage, red onion, garlic",
+        "price":25
+    },
+    {
+        "id":7,
+        "name":"Quattro formaggi",
+        "ingredients":"mozzarella, grana padano, gorgonzola, ricotta, mint",
+        "price":25
+    },
+    {
+        "id":8,
+        "name":"Parma",
+        "ingredients":"mozzarella, ripened ham, cherry tomatoes, rocket, ripened paddy",
+        "price":27
+    },
+    {
+        "id":9,
+        "name":"Truffle",
+        "ingredients":"truffle paste, mascarpone, olives, salami piccante",
+        "price":30
+    },
+    {
+        "id":10,
+        "name":"Pear",
+        "ingredients":"mozzarella, gorgonzola, hazelnuts, pear",
+        "price":25
+    },
+    {
+        "id":11,
+        "name":"Plum",
+        "ingredients":"jam, salami piccante, mozzarella, gorgonzola",
+        "price":26
+    },
+    {
+        "id":12,
+        "name":"Hawaii",
+        "ingredients":"tomato sauce, cheese, pineapple, ham",
+        "price":25
+    },
+    {
+        "id":13,
+        "name":"Rural",
+        "ingredients":"tomato sauce, cheese, cabbage, canned cucumber, bacon, onion",
+        "price":27
+    },
+    {
+        "id":14,
+        "name":"Chorizo",
+        "ingredients":"Italian tomato sauce, Chorizo sausage, mascarpone cheese, rocket, mozzarella",
+        "price":30
+    },
+    {
+        "id":15,
+        "name":"Diablo",
+        "ingredients":"sos pomidorowy, ser, papryka peperoni, szynka, tabasco, chili",
+        "price":31
+    },
+    {
+        "id":16,
+        "name":"Frutti di mare",
+        "ingredients":"tomato sauce, cheese, seafood, spinach, garlic",
+        "price":35
+    },
+    {
+        "id":17,
+        "name":"Pollo bianca",
+        "ingredients":"cream sauce, cheese, chicken, broccoli, corn, mushrooms, pepper",
+        "price":35
+    },
+    {
+        "id":18,
+        "name":"Spinaci",
+        "ingredients":"tomato sauce, cheese, ham, spinach, garlic",
+        "price":30
+    },
+    {
+        "id":19,
+        "name":"Milano",
+        "ingredients":"Italian tomato sauce, Chorizo sausage, mascarpone cheese, rocket, mozzarella",
+        "price":28
+    },
+    {
+        "id":20,
+        "name":"Tono",
+        "ingredients":"tomato sauce, cheese, tuna",
+        "price":28
+    }
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+]

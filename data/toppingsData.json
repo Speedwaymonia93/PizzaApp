@@ -1,0 +1,170 @@
+[
+    {   "id":"t0",
+      "name":"mushrooms",
+      "icon": "./icons/mushroom.svg",
+      "price": 2
+    },
+    {
+    "id":"t1",
+    "name":"green pepper",
+    "icon":"./icons/green-pepper.svg",
+    "price": 2
+    },
+    {
+        "id":"t2",
+        "name":"onion",
+        "icon":"./icons/onion.svg",
+        "price": 2
+    },
+    {
+        "id":"t3",
+        "name":"red onion",
+        "icon":"./icons/red-onion.svg",
+        "price": 2
+    },
+    {
+        "id":"t4",
+        "name":"red pepper",
+        "icon":"./icons/red-pepper.svg",
+        "price": 2
+    },
+    {
+        "id":"t5",
+        "name":"green olive",
+        "icon":"./icons/green-olive.svg",
+        "price": 2
+    },
+    {
+        "id":"t6",
+        "name":"black olive",
+        "icon":"./icons/black-olive.svg",
+        "price": 2
+    },
+    {
+        "id":"t7",
+        "name":"cheese",
+        "icon":"./icons/cheese.svg",
+        "price": 2
+    },
+    {
+        "id":"t8",
+        "name":"fresh tomatoes",
+        "icon":"./icons/tomatoe.svg",
+        "price": 2
+    },
+    {
+        "id":"t9",
+        "name":"mozzarella",
+        "icon":"./icons/mozzarella.svg",
+        "price": 2
+    },
+    {
+        "id":"t10",
+        "name":"basil",
+        "icon":"./icons/herb.svg",
+        "price": 2
+    },
+    {
+        "id":"t11",
+        "name":"zucchini",
+        "icon":"./icons/zucchini.svg",
+        "price": 2
+    },
+    {   "id":"t12",
+        "name":"salami",
+        "icon":"./icons/salami.svg",
+        "price": 2
+    },
+    {
+        "id":"t13",
+        "name":"pepperoni",
+        "icon":"./icons/pepperoni.svg",
+        "price": 2
+    },
+    {
+        "id":"t14",
+        "name":"pineaple",
+        "icon":"./icons/pineapple.svg",
+        "price": 2
+    },
+    {
+        "id":"t15",
+        "name":"chicken",
+        "icon":"./icons/chicken-leg.svg",
+        "price": 2
+    },
+    {
+        "id":"t16",
+        "name":"mascarpone",
+        "icon":"./icons/mascarpone.svg",
+        "price": 2
+    },
+    {
+        "id":"t17",
+        "name":"pawns",
+        "icon":"./icons/prawn.svg",
+        "price": 2
+    },
+    {
+        "id":"t18",
+        "name":"yellow pepper",
+        "icon":"./icons/yellow-pepper.svg",
+        "price": 2
+    },
+    {
+        "id":"t19",
+        "name":"arugula",
+        "icon":"./icons/arugula.svg",
+        "price": 2
+    },
+    {
+        "id":"t20",
+        "name":"corn",
+        "icon":"./icons/corn.svg",
+        "price": 2
+    },
+    {
+        "id":"t21",
+        "name":"oregano",
+        "icon":"./icons/oregano.svg",
+        "price": 2
+    }, 
+    {
+        "id":"t22",
+        "name":"bacon",
+        "icon":"./icons/bacon.svg",
+        "price": 2
+    },
+    {
+        "id":"t23",
+        "name":"ham",
+        "icon":"./icons/ham.svg",
+        "price": 2
+    },
+    {
+        "id":"t24",
+        "name":"jalapeno pepper",
+        "icon":"./icons/jalapeno.svg",
+        "price": 2
+    },
+    {
+        "id":"t25",
+        "name":"chili pepper",
+        "icon":"./icons/chili-pepper.svg",
+        "price": 2
+    },
+    {
+        "id":"t26",
+        "name":"artichoke",
+        "icon":"./icons/artichoke.svg",
+        "price": 2
+    },
+    {
+        "id":"t27",
+        "name":"caper",
+        "icon":"./icons/caper.svg",
+        "price": 2
+    }
+
+
+ ]

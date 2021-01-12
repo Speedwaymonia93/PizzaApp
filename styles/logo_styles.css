@@ -1,0 +1,78 @@
+/* LOGO.JS */ 
+.logo-container{
+    text-align: center;
+}
+.log-container{
+    align-items: center;
+  justify-content: center;
+    display: flex;
+}
+.style-h2{
+    font-family: 'Dancing Script', cursive;
+    color:green;
+    font-size: 60px;
+    font-weight: 700;
+    text-shadow:2px 2px wheat;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.svg-style{
+    height: 70px;
+    width: 70px;
+    position: relative;
+}
+/* IMAGES TAKEN FROM */
+/* Restaurant vector created by freepik - www.freepik.com */
+
+.logo-style{
+    width: 700px;
+    height: 400px;
+    border-radius: 8px;
+}
+/* responsiveness */
+@media (min-width: 320px){
+    .log-container{
+        width:280px;
+      }
+      .style-h2{
+          font-size: 30px;
+      }
+      .logo-container{
+        width:300px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+      }
+      .svg-style{
+        height: 35px;
+        width: 35px;
+      }
+      .logo-style{
+        width: 250px;
+        height: 130px;
+      }
+}
+@media (min-width:760px){
+    .logo-container{
+        width:800px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+      }
+      .log-container{
+        width:800px;
+      }
+      .svg-style{
+        height: 70px;
+        width: 70px;
+      }
+      .logo-style{
+        width: 700px;
+        height: 400px;
+      }
+      .style-h2{
+          font-size: 60px;
+      }
+}

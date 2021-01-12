@@ -1,0 +1,38 @@
+/* NAVIGATION JS. */
+.navigation-component{
+    text-align: center;
+    position: relative;
+}
+.nav-style{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.nav-element-style{
+    list-style: none;
+    /*background-color: #ad442f;
+    border: 1px solid #ee7d5b;
+    border-radius:3px;*/
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    color:green;
+    font-weight: 700;
+    font-family: 'Kalam', cursive;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+}
+.nav-element-style:hover{
+    cursor: pointer;
+}
+
+
+.icon-nav-style{
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

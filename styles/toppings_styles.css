@@ -1,0 +1,78 @@
+/*TOPPINGS JS */
+.toppings-container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .toppings-list-element{
+      list-style: none;
+      display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border: 1px solid black;
+    padding: 15px;
+    margin:15px;
+    border-radius:5px;
+    align-items: center;
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+  
+  }
+  .toppings-element-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .toppings-icon-style{
+    width:40px;
+    height: 40px;
+    padding-right: 10px;
+  }
+  /*when a topping element is clicked, apply the following style to the topping name */
+li span.active{
+  font-weight: bold;
+}
+/*when a topping element is clicked, apply the following style to the topping container */
+li.active-element{
+border:2px solid green;
+list-style: none;
+      display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin:15px;
+    border-radius:5px;
+    align-items: center;
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    box-shadow:0px 0px 8px green;
+  
+}
+
+.toppings-h3-container-style{
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+}
+/* if you want to add a tick or sth when an element is clicked use this code,
+it will add pizza slice if you cliecked on the topping*/
+/*li span.active::before{
+  position: relative;
+  top: -2px;
+  margin-right: 6px;
+  transform: scale(0.8, 1);
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f818";
+  font-size: 25px;
+  content: url("../images/pizza-select.svg");
+  color: #b2d4d7;
+}
+*/

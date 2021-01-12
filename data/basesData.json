@@ -1,0 +1,27 @@
+[
+    {"id" : "b0",
+    "name": "Classic", 
+    "price": 4
+    },
+    {"id" : "b1",
+    "name": "Thin & Crispy", 
+    "price": 5
+    },
+    {"id" : "b2",
+    "name": "Thick Crust", 
+    "price": 4
+    },
+    {"id" : "b3",
+    "name": "Wholemeal", 
+    "price": 7
+    },
+    {"id" : "b4",
+    "name": "Vegan", 
+    "price": 7
+    },
+    {"id" : "b5",
+    "name": "Gluten Free", 
+     "price": 9
+    }
+
+]
